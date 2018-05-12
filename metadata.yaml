@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '37463'
     url: http://www.gutenberg.org/2009/agents/37463
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35102#Udvalgte-Digtninger
 gutenberg_issued: '2011-01-28'
 gutenberg_type: Text
 identifiers:
