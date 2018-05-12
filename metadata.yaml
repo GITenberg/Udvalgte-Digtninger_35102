@@ -1,0 +1,28 @@
+_repo: Udvalgte-Digtninger_35102
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Heiberg, J. L. (Johan Ludvig)
+    alias: Heiberg, Johan Ludvig
+    birthdate: 1791
+    deathdate: 1860
+    gutenberg_agent_id: '37463'
+    url: http://www.gutenberg.org/2009/agents/37463
+description: ''
+gutenberg_issued: '2011-01-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35102'
+  lccn: '2013400930'
+language: da
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Danish poetry'
+title: Udvalgte Digtninger
+url: http://www.gutenberg.org/ebooks/35102
